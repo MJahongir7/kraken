@@ -240,14 +240,9 @@ async def main():
     sessions = [
         {"name": "maftuna", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 29709},
         {"name": "jaxakrak", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 28392},
-        {"name": "turkish", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 15402},
         {"name": "umidga", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 15334},
         {"name": "lafasovch", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 6914},
         {"name": "uuucn", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 7745},
-        {"name": "olimbek", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 1000},
-        {"name": "skill", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 1565},
-        {"name": "qurbonali", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 9775},
-        {"name": "pandas", "api_id": 22456377, "api_hash": "f22c08aa10f86e8aa11efe6d41b27f21", "kraken_id": 53033},
     ]
     
     print("🚀 Kraken Ovlash Boti ishga tushmoqda...\n")
